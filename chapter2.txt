@@ -1,3 +1,5 @@
 Chapter 2: Programming
 
-Inflation is the excess of money in a money system. 
+Inflation is the excess of money in a money system.
+
+I have written a lot of articles and this is where they go.
